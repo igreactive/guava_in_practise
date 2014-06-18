@@ -16,6 +16,8 @@ public class O999_credits {
 			.println("http://www.polygenelubricants.com/2010/10/elegant-comparison-logic-with-guava.html");
 		System.out.println("http://danhaywood.com/2013/02/02/using-google-guavas-ordering-api/");
 		System.out.println("http://java.dzone.com/articles/google-guava-cleaner-code");
+		System.out.println("GITHUB:");
+		System.out.println("https://github.com/igreactive/guava_in_practise");
 	}
 
 }
